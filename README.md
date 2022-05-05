@@ -5,7 +5,7 @@
 - I’m currently learning Javascript, React.js, Node.js & AWS Cloud Services
 - Ask me about Software Engineering and Full-Stack Web Development
 - 2022 Goals: Learn more about Data Structures, Algorithms, and Cloud Technologies
-- My Interests: I love playing Badminton, playing Music & I am a Geopolitics Buff!
+- My Interests: I love playing Badminton, playing music & I am a geopolitics buff!
 - [Portfolio]()
 
 ## Connect With Me
