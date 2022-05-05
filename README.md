@@ -11,7 +11,8 @@
 ## Connect With Me
 [<img src='https://img.icons8.com/color/48/000000/gmail-new.png' alt='gmail' height='30'>](mailto:rahulkherajani20@gmail.com)&nbsp;&nbsp;[<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/rahulkherajani/)&nbsp;&nbsp;
 
-## Technologies I have worked on!
+## Technologies Arsenal
+
 <p align="center">
       <a href = "https://www.java.com/en/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/></a>
       <a href = "https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/></a>
