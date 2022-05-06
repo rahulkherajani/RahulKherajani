@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Rahul 👋</h1>
+<h1 align="center">Hello, I'm Rahul 👋 (नाम तो सुना ही होगा! 😎)</h1>
 
 - Pronouns: He/Him
 - I’m currently working on completing my Applied Computer Science at Dalhousie University 
