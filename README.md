@@ -7,7 +7,7 @@
 - [Portfolio]()
 
 ## Let's Connect!
-[<img src='https://img.icons8.com/color/48/000000/gmail-new.png' alt='gmail' width= '40' height='40'>](mailto:rahulkherajani20@gmail.com)&nbsp;&nbsp;[<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' width='40' height='40'>](https://www.linkedin.com/in/rahulkherajani/)&nbsp;&nbsp;
+[<img src='https://img.icons8.com/color/48/000000/gmail-new.png' alt='gmail' width= '50' height='50'>](mailto:rahulkherajani20@gmail.com)&nbsp;&nbsp;[<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' width='50' height='50'>](https://www.linkedin.com/in/rahulkherajani/)&nbsp;&nbsp;
 
 ## Technology Arsenal!
 
