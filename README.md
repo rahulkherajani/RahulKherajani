@@ -4,7 +4,7 @@
 - Pronouns: He/Him
 - I’m currently a Masters student in Applied Computer Science at Dalhousie University.
 - Ask me about Software Engineering and Full-Stack Web Development
-- [Portfolio]()
+- [My Portfolio](https://rahulkherajani.netlify.app/)
 
 ## Let's Connect!
 [<img src='https://img.icons8.com/color/48/000000/gmail-new.png' alt='gmail' width= '55' height='55'>](mailto:rahulkherajani20@gmail.com)&nbsp;&nbsp;[<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' width='55' height='55'>](https://www.linkedin.com/in/rahulkherajani/)&nbsp;&nbsp;
