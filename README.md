@@ -1,4 +1,4 @@
-<h1>Hello, I'm Rahul 👋</h1>
+<h1>Hi! I'm Rahul 👋</h1>
 
 ## About Me!
 - Pronouns: He/Him
