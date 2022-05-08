@@ -10,7 +10,7 @@
 [<img src='https://img.icons8.com/color/48/000000/gmail-new.png' alt='gmail' width= '55' height='55'>](mailto:rahulkherajani20@gmail.com)&nbsp;&nbsp;[<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' width='55' height='55'>](https://www.linkedin.com/in/rahulkherajani/)&nbsp;&nbsp;
 
 ## Skills!
-<p align="center">
+<p>
       <a href = "https://www.java.com/en/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="55" height="55"/></a>
       <a href = "https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/></a>
       <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" width="55" height="55"/></a>
