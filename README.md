@@ -1,9 +1,8 @@
 <h1>Hi! I'm Rahul 👋</h1>
-<h2> A Full Stack Web Developer</h2>
+
 ## About Me!
-- Pronouns: He/Him
+- I'm a Full Stack Web Developer currently working as a Developer Co-op at Arctic Wolf Networks
 - I’m currently a Masters student in Applied Computer Science at Dalhousie University.
-- I'm currently working as a Developer Co-op at Arctic Wolf Networks.
 - Ask me about Software Engineering and Full-Stack Web Development
 - [My Portfolio](https://rahulkherajani.netlify.app/)
 
