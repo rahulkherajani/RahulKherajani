@@ -1,5 +1,5 @@
 <h1>Hi! I'm Rahul 👋</h1>
-
+<h2> A Full Stack Web Developer</h2>
 ## About Me!
 - Pronouns: He/Him
 - I’m currently a Masters student in Applied Computer Science at Dalhousie University.
