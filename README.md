@@ -1,10 +1,11 @@
 <h1>Hi! I'm Rahul 👋</h1>
 
 ## About Me!
-- I'm a Full Stack Web Developer currently working as a Developer Co-op at Arctic Wolf Networks
-- I’m currently a Masters student in Applied Computer Science at Dalhousie University.
+- Full Stack Web Developer
+- Developer Co-op at Arctic Wolf Networks
+- Masters student in Applied Computer Science at Dalhousie University, Halifax, Canada.
 - Ask me about Software Engineering and Full-Stack Web Development
-- [My Portfolio](https://rahulkherajani.netlify.app/)
+- [Portfolio](https://rahulkherajani.netlify.app/)
 
 ## Let's Connect!
 [<img src='https://img.icons8.com/color/48/000000/gmail-new.png' alt='gmail' width= '55' height='55'>](mailto:rahulkherajani20@gmail.com)&nbsp;&nbsp;[<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' width='55' height='55'>](https://www.linkedin.com/in/rahulkherajani/)&nbsp;&nbsp;
