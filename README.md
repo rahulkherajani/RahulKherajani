@@ -2,8 +2,7 @@
 
 ## About Me!
 - Full Stack Web Developer
-- Developer Co-op at Arctic Wolf Networks
-- Masters student in Applied Computer Science at Dalhousie University, Halifax, Canada.
+- Developer at Arctic Wolf Networks
 - Ask me about Software Engineering and Full-Stack Web Development
 - [Portfolio](https://rahulkherajani.netlify.app/)
 
