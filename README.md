@@ -1,7 +1,7 @@
 <h1>Hi! I'm Rahul 👋</h1>
 
 ## About Me!
-- Full Stack Web Developer
+- Full Stack Developer
 - Developer at Arctic Wolf Networks
 - Ask me about Software Engineering and Full-Stack Web Development
 - [Portfolio](https://rahulkherajani.netlify.app/)
